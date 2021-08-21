@@ -1,0 +1,19 @@
+//Este é um arquivo resultante de um estudo sobre logica de programação. Estou começando por Javascript (node.js)
+
+var nomeCompleto = "Samuel Santos Fiaes";
+
+var apelido= "Sam";
+
+var idade = 26;
+
+var dataNascimento = "05/05/1995";
+
+var localNascimento = "Salvador";
+
+var altura = 1.90;
+
+var trabalhando = "empregado";
+
+var apresentacao = "Meu nome é " + nomeCompleto + ", Sou conhecido como " + apelido + ".Tenho " + idade + " de idade " + ", nasci no dia " + dataNascimento + ", na cidade de " + localNascimento + ". Tenho " + altura + "m de altura e atualmente estou " + trabalhando + ".";
+
+console.log (apresentacao)
